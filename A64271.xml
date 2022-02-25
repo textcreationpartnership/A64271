@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Obedience and submission to the present government, demonstrated from Bishop Overall's convocation-book</title>
+            <author>Taylor, Zachary, 1653-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64271</idno>
+            <idno type="STC">Wing T597</idno>
+            <idno type="STC">ESTC R2448</idno>
+            <idno type="EEBO-CITATION">11950332</idno>
+            <idno type="OCLC">ocm 11950332</idno>
+            <idno type="VID">51384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Obedience and submission to the present government, demonstrated from Bishop Overall's convocation-book</title>
+                  <author>Taylor, Zachary, 1653-1705.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Overall, John, 1560-1619. --  Bishop Overall's convocation book.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51384:1"/>
+            <pb facs="tcp:51384:1" rendition="simple:additions"/>
+            <p>OBEDIENCE AND SUBMISSION OF THE Preſent Government, DEMONSTRATED FROM Biſhop Overall's <hi>Convocation-Book.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavel</hi> at the Sign of the <hi>Peacock</hi> in St. <hi>Pauls-Church-Yard,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51384:2"/>
+            <pb n="1" facs="tcp:51384:2" rendition="simple:additions"/>
+            <head>OBEDIENCE AND SUBMISSION To The Preſent Government, &amp;c.</head>
+            <p>THAT thoſe of the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> who have taken the Oaths to Their Majeſties KING <hi>William</hi> and QUEEN <hi>Mary,</hi> have De<g ref="char:EOLhyphen"/>ſerted their Principles about Allegiance and Government, is the common Reflection caſt upon them, by ſome, whom either Malice or Ignorance does Diſpoſe to Reproach 'em: But ſince Biſhop <hi>Overall</hi>'s Convocation-Book appeared, they now Plead Reaſon and Au<g ref="char:EOLhyphen"/>thority
+<pb n="2" facs="tcp:51384:3"/>to Juſtify the Scandal, and pretend that they have got a whole Convocation of Unprejudic'd and Learned Men, who have Unanimouſly Condemned the late Sub<g ref="char:EOLhyphen"/>miſſion, and ſuch, as being far removed from any Temptation, are the fitteſt and moſt fair Judges that we can be Deter<g ref="char:EOLhyphen"/>mined by; (tho' their Proceedings not ha<g ref="char:EOLhyphen"/>ving the Royal Confirmation which is ab<g ref="char:EOLhyphen"/>ſolutely neceſſary for Canons, does (as ſome think) very much, if not altogether inva<g ref="char:EOLhyphen"/>lidate their Authority, and makes 'em as inſignificant as the laſt Convocation we heard of.) I thought therefore I might do ſome Service to the Church, and its Members, if I could in ſome Meaſure Vin<g ref="char:EOLhyphen"/>dicate It and Them, by proving that their Compliance with the preſent Settlement, has not in the leaſt deviated from the Doctrine of the Church of <hi>England,</hi> as it was Profeſs'd and Taught in that Convo<g ref="char:EOLhyphen"/>cation.</p>
+            <p>I ſhall begin therefore with laying down the Doctrine about Government and Alle<g ref="char:EOLhyphen"/>giance in Four Propoſitions extracted out of the Convocation-Book, to which may be
+<pb n="3" facs="tcp:51384:3"/>Reduced, whatever almoſt can be pretend<g ref="char:EOLhyphen"/>ed in this Controverſy;</p>
+            <p>And they are theſe,</p>
+            <p>Firſt, <hi>That the Power of Kings was Ori<g ref="char:EOLhyphen"/>ginally Patriarchal, Deriv'd from GOD and not from the People,</hi> C. 2.6, 13.</p>
+            <p>For tho' Kings are, or ought to be Bound up, and Limited in the Exerciſe of their Power by Laws, <hi>C.</hi> 15. yet that proceeds from GOD and Nature, who never in<g ref="char:EOLhyphen"/>tended Princes to be ſuch <hi>Leviathans,</hi> whoſe wilful Pleaſure ſhould be Laws; but Pa<g ref="char:EOLhyphen"/>rents of their Countrey, Impowered from Above to Maintain the Native Liberty and Property of their Subjects, as of their Children. For the Conceit of Abſoluteneſs never did, or could prevail in any State, but where Superſtition or Ignorance blind<g ref="char:EOLhyphen"/>ed Mens Reaſons, as in <hi>Turky,</hi> and moſt of the <hi>Eaſtern</hi> Empires; or Paraſitical Flattery, and the naked Sword Maintain the Arbi<g ref="char:EOLhyphen"/>trary Uſurpation, as it is in a Neighbour<g ref="char:EOLhyphen"/>ing Kingdom.</p>
+            <pb n="4" facs="tcp:51384:4"/>
+            <p>Second Prop. <hi>That Deſcent in Hereditary Kingdoms, is the ordinary Way whereby a Right and Title to the Crown is Claimable.</hi>
+            </p>
+            <p>I ſay, <note place="margin">
+                  <hi>Prov.</hi> 8.15.</note> is the ordinary Way; For ſince Kings Rule by GOD, it is only, as the Convocation-Book ſaith, The Lord, who both may, and is able to overthrow Kings or Emperors, notwithſtanding any Claim, Right, Title, or Intereſt which they can Challenge to their Countries, Kingdoms or Empires, <hi>pag.</hi> 53.</p>
+            <p>Third Prop. <hi>That no Violence is to be uſed to Kings from their own Subjects for any Irre<g ref="char:EOLhyphen"/>gularities that they commit,</hi> C. 22.</p>
+            <p>
+               <hi>For the Doctrine of</hi> Paſſive Obedience <hi>to a Government Eſtabliſhed by Law, whether the PRINCE be Limited and Sworn to Go<g ref="char:EOLhyphen"/>vern by Laws Choſen by the People, and En<g ref="char:EOLhyphen"/>acted with his Conſent, or the PRINCE be Abſolute, and his will ſufficiently Declared, be the Law, is of abſolute neceſſity to the Support of any Government; and they who deny that, can never clear themſelves from the Suſpicion of ſome Deſigns againſt this.</hi>
+            </p>
+            <pb n="5" facs="tcp:51384:4"/>
+            <p>Fourth Prop. <hi>That having ſworn Allegiance to a Prince, we cannot without the Dreadful Guilt of Perjury, transfer our Allegiance, whilſt he continues to have an Authoritative Right and Title to the Crown,</hi> C. 36.</p>
+            <p>I ſay an Authoritative Right and Title, becauſe the Caſe may ſo happen, that theſe being ſeparated, the Claim of Right with<g ref="char:EOLhyphen"/>out the Authority, cannot Challenge our Allegiance, as in the Caſe of the Kings of <hi>Iſrael</hi> and <hi>Judah,</hi> that were led Captive by the <hi>Babylonians,</hi> who they ſurviv'd in <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> and ſome of them out of Confinement yet, (as it appears from <hi>Jeremy</hi>'s calling for the Peoples Prayers, and Obedience to the <hi>Babyloniſh</hi> Kings) could lay no Claim to the Allegiance of their late Subjects. The Reaſon of which, is, Becauſe it is the Au<g ref="char:EOLhyphen"/>thority, which is GOD's, that Commands our Allegiance; and tho' no Mortal can ſeparate this Authority from the Perſon in<g ref="char:EOLhyphen"/>veſted with it, yet GOD can, (of which more hereafter) and if he do transfer it to another, wherever it is plac'd, it calls for our Allegiance.</p>
+            <pb n="6" facs="tcp:51384:5"/>
+            <p>This is the Sum, I think, of what can be pretended in the preſent Controverſie. To Reply to which, I will not Expatiate on what hath been abundantly offer'd by others, but Confine my ſelf, as much as poſſible, to the Convocation-Book, that the Impar<g ref="char:EOLhyphen"/>tial Reader may judge which ſide, the Ju<g ref="char:EOLhyphen"/>rors or <hi>Non</hi>-Jurors, the Old Eſtabliſhed Doctrine of the Church of <hi>England</hi> does countenance.</p>
+            <p>And as to the Firſt Propoſition, That Government in general, whether Monarchy, or any other Form, derives it's Authority from GOD, the Author of Nature, and conſequently of Humane Society, and not from the People, (tho' their Conſent be ordinarily neceſſary to the Conſtitution, both of the Form of Government, and the Per<g ref="char:EOLhyphen"/>ſons Governing) is that which is to be the Ground-Work of the whole Diſcourſe, and therefore in the firſt Place to be admitted, which I the more Confirm, by obſerving from the Right Reverend the Author; Firſt, That all Kingdoms are now (what was more peculiarly appropriated to the <hi>Jewiſh</hi> Nation in their Firſt Conſtitution) in ſome
+<pb n="7" facs="tcp:51384:5"/>ſort <hi>Theocracies,</hi> wherein GOD according to His own Pleaſure, takes away Kings, and ſetteth up Kings: For <hi>C.</hi> 35. <hi>P.</hi> 83. <hi>GOD being the Univerſal Lord, and Ruler over all the World, the whole World is His Univerſal Kingdom; in the Government whereof, He uſeth the Miniſtry of Civil Magiſtrates, as well in other Countries, as amongst His own pe<g ref="char:EOLhyphen"/>culiar People</hi> Iſrael, <hi>without any Deſert of theirs, but as in His Heavenly Providence, He thinks it moſt convenient,</hi> p. 84. <hi>Howbeit He does not leave them at Liberty to do what they list, but holds Himſelf the Helm of every Kingdom, and uſeth their Services in ſuch ſort, as be they Good or Bad, and their Deſignments Holy or Wicked; He ever makes them the Executioners of His own Juſt Judgments, Will, and Good Plea<g ref="char:EOLhyphen"/>ſure, according as He is minded to Puniſh any Kingdom, People, or Countrey.</hi> And this He does by reſerving to His Providence, the Prerogative of the Deſignation of the Per<g ref="char:EOLhyphen"/>ſon whom He intends for His Vice-Gerent, and that even in Hereditary Kingdoms, <note place="margin">1 <hi>Chro.</hi> 3.25.</note> as <hi>Adoniah,</hi> who was <hi>Solomon</hi>'s Elder Brother, and Anointed by <hi>Abiathar</hi> to ſucceed his Father, ſo his great Diſappointment may be an In<g ref="char:EOLhyphen"/>ſtance.
+<pb n="8" facs="tcp:51384:6"/>Nay, GOD ſometimes for the only deſign'd Uſurpation of a Prince, whoſe Title, and that in an Hereditary, was al<g ref="char:EOLhyphen"/>together Indiſputable, does deprive him of the Government in Part or Whole, and will not allow him ſo much as to Endeavour the re-gaining of it, which was the Caſe of <hi>Rehoboam.</hi> And how oft he has Extin<g ref="char:EOLhyphen"/>guiſh'd the Line Royal, and Advanc'd to the Crown ſuch as had no Relation to it, the Hiſtory of the Kings of <hi>Iſrael</hi> does am<g ref="char:EOLhyphen"/>ply Teſtify. In all which Caſes, ſince it was GOD's doing, the Dethroned Prince could have no Pretence unto the Subjects Allegiance. All that I will Note hence, is, <hi>That the Line of Deſcent in an Hereditary Kingdom may be Interrupted, and yet the Law of Succeſſion not Violated.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> I Remark, That a Sovereign may be Deveſted of his Power which he receiv'd from GOD, and Decline into the Inferiour Condition of a Subject.</p>
+            <p>This is plain from the Kings of <hi>Iſrael</hi> and <hi>Judah,</hi> who of Independent Monarchs, became not only Tributary, but Subjects to
+<pb n="9" facs="tcp:51384:6"/>the Kings of <hi>Babylon,</hi> and being Subjects, whatever other Duty might, yet Allegiance could no way be due unto them, that be<g ref="char:EOLhyphen"/>ing in general, peculiar only to a Sovereign Prince, not Dependent on, or Tributary to, another. This is Confirm'd and Improv'd from the Convocation-Book, which in the Caſe of <hi>Jehu</hi> intimates, That his former Prince became his Subject, <hi>Ch.</hi> 25. <hi>p.</hi> 40. and both he and <hi>Ahud</hi> are excuſed from Guilt in laying violent Hands upon their Liege-Lords, in that, tho' they had been Sub<g ref="char:EOLhyphen"/>jects, yet before the Commiſſion of the Fact, they were Advanc'd to be Judges, Princes, and Rulers of God's People, <hi>C.</hi> 27. <hi>p.</hi> 53. I will make no Corollary from hence, be<g ref="char:EOLhyphen"/>cauſe of the Reverence that I bear to all ſuch Heads as ever wore a Crown. I therefore haſten to the Laſt Obſervation; which is,</p>
+            <p>
+               <hi>Thirdly,</hi> That when a Prince is thus De<g ref="char:EOLhyphen"/>veſted of his Power from GOD, and another Advanc'd to his Throne, our Legal Allegiance may juſtly be Claimed by the Poſſeſſor.</p>
+            <pb n="10" facs="tcp:51384:7"/>
+            <p>We have been told this from our Law-Books again, and again, and now you ſhall hear the Deciſion of it from the Convoca<g ref="char:EOLhyphen"/>tion-Book, which taking Notice, <hi>C.</hi> 28. <hi>p.</hi> 56. of the ſtrange Variations of Govern<g ref="char:EOLhyphen"/>ments in its Forms, and Governours in their Perſons, whether by Uſurping <hi>Nimrods,</hi> or Traytorous <hi>Phocas</hi>'s, gives hereunto this Satiſ<g ref="char:EOLhyphen"/>faction, <hi>p.</hi> 57. <hi>That when either Ambitious Kings by bringing any Countrey into their Sub<g ref="char:EOLhyphen"/>jection, or Diſloyal Subjects by their Rebellious Riſing againſt their Natural Sovereign, have Eſtabliſhed any Degenerate Form of Government,</hi> (<hi>viz.</hi> Ariſtocratical, Democratical, <hi>&amp;c.</hi>) <hi>a<g ref="char:EOLhyphen"/>mongſt their People; The Authority either ſo un<g ref="char:EOLhyphen"/>juſtly gotten, or wrung by Force from the True and Lawful Poſſeſſor, being always Gods Autho<g ref="char:EOLhyphen"/>rity (and therefore receiving no Impeachment by the Wickedneſs of thoſe that have it) is ever (when any ſuch Alterations are throughly Settled) to be Reverenc'd and Obey'd, and the People of all ſorts (as well of the Clergy as of the Laity) are to be ſubject unto it, not only for Fear, but alſo for Conſcience ſake.</hi>
+            </p>
+            <p>Here you may ſee that upon a Revo<g ref="char:EOLhyphen"/>lution from the worſt of Circumſtances,
+<pb n="11" facs="tcp:51384:7"/>Uſurpation, and Rebellion, Obedience to the Eſtabliſhment is acknowledg'd Due. And ſure I am, That Malice it ſelf cannot be ſo bitter as to think the preſent Settlement Pa<g ref="char:EOLhyphen"/>rallel to this Repreſentation: For,</p>
+            <p>
+               <hi>Firſt,</hi> Here was no Ambitious Monarch, but a Prince that had a Juſt Cauſe of War, on the Account of the Pretended Prince of <hi>Wales,</hi> which whether he was Real, or Suppo<g ref="char:EOLhyphen"/>ſititious, ſince he had not that Satisfaction which was but Equitable as he Demand<g ref="char:EOLhyphen"/>ed, he might Appeal to GOD to Decide the Truth and Juſtice of it by the Sword. And,</p>
+            <p>
+               <hi>Secondly,</hi> As for thoſe who did Deſert King <hi>James,</hi> thus much may be ſaid for them, That they could not with a Safe Con<g ref="char:EOLhyphen"/>ſcience Aſſiſt him in that War, becauſe they Eſteem'd it on his Side Unlawful, and therefore they were Oblig'd at the leaſt to Lay down their Arms.</p>
+            <p>
+               <hi>Thirdly,</hi> The Monarchy is not Degene<g ref="char:EOLhyphen"/>rated into a baſer Form. We have the ſame Conſtitution, the ſame Laws, the ſame
+<pb n="12" facs="tcp:51384:8"/>Liberties, or Greater than we had before; and therefore if in want of all theſe we ought to yield (as the Book aſſerts) <hi>Obe<g ref="char:EOLhyphen"/>dience;</hi> in the Enjoyment of them, we ought to add unto it, <hi>Thankfulneſs.</hi>
+            </p>
+            <p>All that can be mov'd hereupon, is, When a Government may be ſaid to be Settled.</p>
+            <p>And with Submiſſion, I cannot but con<g ref="char:EOLhyphen"/>ceive, That the Government is Settled, when the Crown with all its Dignities, Pre<g ref="char:EOLhyphen"/>rogatives, Adminiſtrations, Authorities, Re<g ref="char:EOLhyphen"/>venues, <hi>&amp;c.</hi> are generally Recogniz'd, and Perſonally Enjoy'd, which muſt be ſuppo<g ref="char:EOLhyphen"/>ſed to be, when all Places of Power and Truſt, of Royalty and Importance, are in the Sovereign's Hands, and wholly at his Diſpoſal. For to ſay, Becauſe there are Foreign Wars, or Secret Plots, that the Crown is not in full Poſſeſſion, ſince there always was, and always will be Diſcontented Parties at home, and Politick Machinations abroad, that either Actually do, or Craftily deſign to Diſturb the Peace; ſo that we cannot but acknowledge that to be a Real Eſta<g ref="char:EOLhyphen"/>bliſhment, which hath the Countenance
+<pb n="13" facs="tcp:51384:8"/>of Laws, and Parliament, to Own and Con<g ref="char:EOLhyphen"/>firm it.</p>
+            <p>Thus ſince GOD hath been pleaſed to Deveſt the Late King <hi>James</hi> of that Autho<g ref="char:EOLhyphen"/>rity which he had once Committed to him, and Transferr'd it into anothers Hands; <hi>both Clergy and Laity according to the Doctrine of the Church of</hi> England, <hi>ought to Reverence, Obey, and be Subject to it, not only for Wrath, but alſo for Conſcience ſake.</hi>
+            </p>
+            <p>I have almoſt Flatter'd my ſelf, ſo as to Believe the moſt moderate Perſons will Sub<g ref="char:EOLhyphen"/>ſcribe what I have ſaid, if I could but Pro<g ref="char:EOLhyphen"/>duce any Moral Evidence that this was GOD's Doing: To Anſwer whoſe Ex<g ref="char:EOLhyphen"/>pectations, I will Search after ſuch Crite<g ref="char:EOLhyphen"/>rions, as may Evince the preſent Revoluti<g ref="char:EOLhyphen"/>on to be the Will and Pleaſure of Almighty GOD. I therefore before hand, declare my Averſion to ſuch Doctrines (as have not long ſince been Cenſur'd by one of our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>louriſhing Univerſitys) wherein, Succeſs Aproduc'd for an Argument of the Divine Aprobation of ſuch Means, Methods, and In<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ments, as are concern'd in a Revolu<g ref="char:EOLhyphen"/>tion</p>
+            <pb n="14" facs="tcp:51384:9"/>
+            <p>But then I muſt aſſume, That GOD's Providence in permitting, is a ſufficient Indi<g ref="char:EOLhyphen"/>cation of his Will and Pleaſure as to the Event; which whether He deſigns it, that he may thereby Puniſh the Sins of his People, or that he may Protect the Peace of the Church, is above my Capacity to Deter<g ref="char:EOLhyphen"/>mine. But ſince Prophecy hath ceaſed, ſure I am, that nothing but his Providence is Vocal to us; and ſuch ſtrong Arguments may we produce from it (eſpecially where we can find a Parity of GOD's Proceed<g ref="char:EOLhyphen"/>ing) as will not with Eaſe or Ridicule be Eluded.</p>
+            <p>I cannot therefore but obſerve, and that from this Convocation-Book, <hi>C.</hi> 24. <hi>p.</hi> 47. <hi>That even the Succeſs of Divine Benedictions are to be left to the Diſpoſition of GOD's Heaven<g ref="char:EOLhyphen"/>ly Providence,</hi> which is there aſcribed to the very Reaſon, why <hi>David,</hi> tho' already Anoin<g ref="char:EOLhyphen"/>ted King, was not Advanc'd to the pro<g ref="char:EOLhyphen"/>mis'd Crown till <hi>Saul</hi>'s Death, Whence, ſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Prediction, tho' Divine, is not ſuffici<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Ground to proceed upon, until GOD's o<g ref="char:EOLhyphen"/>vidence does interfere; I cannot reſtraimy Pen from moving this Query, <hi>viz.</hi> Whe<g ref="char:EOLhyphen"/>ther
+<pb n="15" facs="tcp:51384:9"/>the manifeſt Interpoſitions of a Gra<g ref="char:EOLhyphen"/>cious Providence, that tends to the promo<g ref="char:EOLhyphen"/>tion of GOD's Honor, and the Eſtabliſh<g ref="char:EOLhyphen"/>ment of his Church, (without which, Pre<g ref="char:EOLhyphen"/>dictions themſelves are not raſhly to be Ex<g ref="char:EOLhyphen"/>ecuted) be not to us (now that Prophecy is ceas'd) a Juſtifiable Ground for any Ra<g ref="char:EOLhyphen"/>tional Man to Act upon, eſpecially when it holds <hi>Analogy</hi> with thoſe Proceedings, where<g ref="char:EOLhyphen"/>in GOD hath already Notify'd His Holy Will and Pleaſure?</p>
+            <p>I think this will hardly be deny'd, and therefore all that remains, is to produce ſome Precedents wherein Royal Authority has been Tranſlated, and GOD hath own'd it for his immediate Doing. For if his Head was Interpos'd there, I ſee not how we can Exclude it here: Therefore,</p>
+            <p>
+               <hi>Firſt,</hi> When Kings have Illegally Oppreſ<g ref="char:EOLhyphen"/>ſed their Subjects, and been too Arbitrary in their Impoſition, GOD hath been pleas'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſcharge them of their Truſt: The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon of which is, becauſe they are GOD's Roreſentatives, and therefore what they doby Implication is, and cannot but be
+<pb n="16" facs="tcp:51384:10"/>Interpreted to be GOD's Work; and then as he ſaith of the Judges in the Execution of their Office, <note place="margin">2 <hi>Chron.</hi>
+               </note> That they Judge not for Man, but for the LORD who is with them in the Judgment. The Wrong, if they do any, is an Injury to GOD, whoſe Judg<g ref="char:EOLhyphen"/>ment it is ſuppos'd to be; which Injury, he will not ſuffer to go unpuniſh'd. So the Uſurpations of Princes, being Reflecti<g ref="char:EOLhyphen"/>ons upon GOD, whoſe Truſtees they are, his Honor ſtands Engag'd, (when our ſins are ſufficiently puniſh'd by ſuch Scourges) to Vindicate its own Innocence, in Remo<g ref="char:EOLhyphen"/>ving or otherwiſe Animadverting upon them that ſo abus'd his Truſt. We have a no<g ref="char:EOLhyphen"/>table Inſtance of this in <hi>Rehoboam,</hi> who be<g ref="char:EOLhyphen"/>ing Rejected of the People, becauſe of his Reſov'd Uſurpations, and Endeavouring to Regain his Right by the Sword, is for<g ref="char:EOLhyphen"/>bid by GOD; for which Prohibition, the Reaſon that is given by no mean States-Man, my Lord <hi>Clarendon,</hi> is this, <hi>Becauſe I had been in the Fault himſelf.</hi> The Applica<g ref="char:EOLhyphen"/>on I leave to the Reader.</p>
+            <pb n="17" facs="tcp:51384:10"/>
+            <p>
+               <hi>Secondly,</hi> The Inſtance of Time is ano<g ref="char:EOLhyphen"/>ther Mark of GOD's Interpoſition. For when His Church is on the Brink of Ruin, and the Deſigns againſt Her, have been ſo prevalent, that it is not in the Power of Man to over-rule Them, than <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, He is a Preſent GOD in Trouble. This the Deliverance of the <hi>Iſraelites</hi> out of <hi>Aegypt,</hi> will Atteſt, who have made upon it, this Comfortable Obſervation; then, whenever the Tale of Bricks, <hi>i. e.</hi> The utmoſt Ser<g ref="char:EOLhyphen"/>vitude is impoſed; <hi>Moſes, i. e.</hi> A Deliverer is near at hand. And the Methods preſcri<g ref="char:EOLhyphen"/>bed by Father <hi>Parſons,</hi> for the Reduction of <hi>England</hi> to the <hi>Roman</hi> Yoak, found in the Cloſet of the Late King <hi>James,</hi> and ſo re<g ref="char:EOLhyphen"/>ligiouſly obſerv'd throughout his Reign, is too great an Evidence of our deſign'd Ex<g ref="char:EOLhyphen"/>tirpation for Impudence it ſelf to deny.</p>
+            <p>
+               <hi>Thirdly,</hi> The Way and Manner of this Revolution, which was without Bloodſhed and Battles, <hi>i. e.</hi> Such as beſeems the God of Peace, doth confirm the ſame. For not to enlarge on this, I deſire any of the <hi>Non</hi>-Jurors to ſpeak plainly, if they do not think
+<pb n="18" facs="tcp:51384:11"/>the Peaceableneſs of the Reſtoration of King <hi>Charles</hi> to be an unanſwerable Teſti<g ref="char:EOLhyphen"/>mony of God's Work, and Interpoſition; for my part, I muſt confeſs I always did. And then I know not how to deny the In<g ref="char:EOLhyphen"/>fatuation of his Brothers Deſertion to inti<g ref="char:EOLhyphen"/>mate, that the ſame Hand that reſtored the One, was very much Confenting to the withdrawing of the Other.</p>
+            <p>I have done, and will provoke no Man by Reflections, but yet I earneſtly intreat our <hi>Non</hi>-Juring Brethren, to Conſider;</p>
+            <p>
+               <hi>Firſt,</hi> That the refuſing of an Oath which may Lawfully be taken, as this in Contro<g ref="char:EOLhyphen"/>verſie may, (if what theſe Canons ſay, be True) makes the Refuſers Reſponſible for the Want of all that Good, which their Of<g ref="char:EOLhyphen"/>ficiating in their Cures might have produc'd, together with all that Unſettledneſs in the STATE, which their Example hath en<g ref="char:EOLhyphen"/>couraged.</p>
+            <p>
+               <hi>Secondly;</hi> If what I have produc'd, be the Canonical Doctrine of the Church of <hi>England,</hi> let them be adviſed of the Miſchief of that
+<pb n="19" facs="tcp:51384:11"/>Fatal Diviſion, which their Obſtinacy will bring amongſt us, and is already deſign'd, if not begun, in a Form of Prayer preten<g ref="char:EOLhyphen"/>ded (though I think it ſmells too ſtrong of Jeſuite) to be theirs.</p>
+            <p>Therefore, for the Sake of Peace, where<g ref="char:EOLhyphen"/>of Chriſt is the Head, and his Doctrine is the Goſpel: For the Sake of our Church threatned with a more Affecting and Patheti<g ref="char:EOLhyphen"/>cal Diviſion than ever: For the Sake of the Reformation, which this Breach, above all things, will prejudice; and above all, for the Sake of GOD, Whoſe Truth and Worſhip, if another Revolution come, are, as far as we can ſee, to be extinguiſh't. I entreat and beg of you ſeriouſly, to lay aſide all Paſſion, Heat, and Peeviſhneſs, and whatever elſe may byaſs your Reaſon; and Conſider, if what I have wrote be the Genuine Doctrine of the Church of <hi>England.</hi> For if it be not, I muſt Acknowledge my Miſtake, and beg GOD Pardon for the Guilt, which by taking the New Oath I have incurr'd; which, till my Conſcience be more enlightened, I am ſo far from ſuſ<g ref="char:EOLhyphen"/>pecting, that I would not as my Conſcience,
+<pb n="20" facs="tcp:51384:12"/>for more Kingdoms than King <hi>James</hi> has loſt, be in the ſame Guilt with thoſe, who by refuſing to take the Oaths, Contribute too much to the Deſigns of ſuch, as will favour neither Them, nor Us, if our Sins ſhould ever prevail with GOD to give them the Aſcendency. Which GOD pre<g ref="char:EOLhyphen"/>vent for the Merits of His Son, the King of Peace and Truth. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51384:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
